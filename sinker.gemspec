@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "sinker"
   spec.version       = Sinker::VERSION
   spec.authors       = ["Mark Turner"]
-  spec.email         = ["mturner@webassign.net"]
+  spec.email         = ["irrationalidiot@gmail.com"]
   spec.summary       = %q{A utility to synchronize Google Apps accounts to OpenLDAP.}
   spec.description   = %q{}
   spec.homepage      = ""
